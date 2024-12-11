@@ -1,0 +1,15 @@
+:root {
+  --nav-bg: #212529;
+  --nav-text: #7b959e;
+  --nav-hover: #9ba0a1;
+  --banner-text: #900080;
+}
+.navbar {
+  background-color: var(--nav-bg) !important;
+}
+.nav-link {
+  color: var(--nav-text) !important;
+}
+.nav-link:hover {
+  color: var(--nav-hover) !important;
+}
